@@ -1,0 +1,23 @@
+{
+  "name": "therapychannel",
+  "version": "1.0.0",
+  "description": "backend for therapychannel smd app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamzaTatheer/smd_backend.git"
+  },
+  "author": "Hamza Tatheer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HamzaTatheer/smd_backend/issues"
+  },
+  "homepage": "https://github.com/HamzaTatheer/smd_backend#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
